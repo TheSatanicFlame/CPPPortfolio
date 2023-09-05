@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Niek Mos | Portfolio"
 title_separator          : "-"
-name                     : name "Niek Mos"
-description              : description "Make people lose themself in amazing adventures and worlds"
+name                     : "Niek Mos"
+description              : "Make people lose themself in amazing adventures and worlds"
 url                      : https://thesatanicflame.github.io/CPPPortfolio/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thesatanicflame/cppportfolio.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Niek Mos"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Make people lose themself in amazing adventures and worlds"
+  location         : "The Netherlands"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "academicpages"
+  github           : "thesatanicflame"
   google_plus      :
   keybase          :
   instagram        :
