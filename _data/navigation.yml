@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Learning"
+    url: /learning/    
+    
+  - title: "Projects"
+    url: /projects/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
