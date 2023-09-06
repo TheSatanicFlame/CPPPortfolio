@@ -49,7 +49,7 @@ I also crafted a beautful bootleg version of Spotify, it's called Dramidify. I u
 What do you like doing in your spare time? What is your favorite video game (right now)? What kind of movies do you like? What kind of music do you like? Where is your favorite vacation spot?
 -->
 
-To be honest, programming is my biggest hobby, I love to create things. I also like to play video games, my favorite games right now are probably Minecraft, Horizon Zero: Dawn, Ratchet & Clank Rift Apart and I've lately been getting into fortnite again. I also like to watch anime, my favorite anime is probably Food Wars. I also like to listen to music, my favorite genre is probably EDM.
+To be honest, programming is my biggest hobby, I love to create things. I also like to play video games, my favorite games right now are probably Minecraft, Horizon: Zero Dawn, Ratchet & Clank Rift Apart and I've lately been getting into fortnite again. I also like to watch anime, my favorite anime is probably Food Wars. I also like to listen to music, my favorite genre is probably EDM.
 
 ## Career Goals
 
