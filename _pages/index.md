@@ -14,6 +14,8 @@ Hey, I'm Niek, I'm currently studying Software Development at Graffisch Lyceum R
 
 I've got into programming because I was amazed at how people made something amazing out of nothing, I wanted to be able to do that too. I started with web (HTML, CSS, JavaScript), and later on I started with C# and Unity. I've been doing that for a while now, but I want to step up, so now I'm here to learn C++. So I will be able to enroll in the Creative Media and Game Technologies course at the Breda University of Applied Sciences.
 
+I'm currently on an internship at Internetbureau Slik located in Rotterdam
+
 ## Strengths
 
 <!---
@@ -47,7 +49,7 @@ I also crafted a beautful bootleg version of Spotify, it's called Dramidify. I u
 What do you like doing in your spare time? What is your favorite video game (right now)? What kind of movies do you like? What kind of music do you like? Where is your favorite vacation spot?
 -->
 
-To be honest, programming is my biggest hobby, I love to create things. I also like to play video games, my favorite games right now are probably Minecraft, Horizon Zero: Dawn, Ratchet & Clank Rift Apart and I've lately been getting into fortnite again. I also like to watch anime, my favorite anime is probably Food Wars. I also like to listen to music, my favorite genre is probably EDM.
+To be honest, programming is my biggest hobby, I love to create things. I also like to play video games, my favorite games right now are probably Minecraft, Horizon: Zero Dawn, Ratchet & Clank Rift Apart and I've lately been getting into fortnite again. I also like to watch anime, my favorite anime is probably Food Wars. I also like to listen to music, my favorite genre is probably EDM.
 
 ## Career Goals
 
