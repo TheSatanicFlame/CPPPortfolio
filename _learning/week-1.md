@@ -18,7 +18,7 @@ NOTE: Fill this section in at the beginning of the week!
 What do you plan to do this week? What new knowledge do you want to acquire? Do you want to follow any of the learning units for the course? Do you want to work on the assignment for the course? How much time do you estimate you will spend on these tasks?
 -->
 
-By the end of this week, I want to follow the first learning unit of this course. To accomplish this, I will actively follow the class and complete the assignments. I estimate that I will spend 8 hours on this. Following the learning unit will help me to understand the basics of the course and will help me to get started with the assignment.
+By the end of this week, I want to follow the first learning unit of this course. To accomplish this, I will actively follow the class and start working on my portfolio. I estimate that I will spend 8 hours on this. Following the learning unit will help me to understand the basics of the course and will help me to get started with the assignment.
 
 ## Do
 
