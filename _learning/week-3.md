@@ -18,6 +18,8 @@ NOTE: Fill this section in at the beginning of the week!
 What do you plan to do this week? What new knowledge do you want to acquire? Do you want to follow any of the learning units for the course? Do you want to work on the assignment for the course? How much time do you estimate you will spend on these tasks?
 -->
 
+By the end of the week I want to have a deeper understanding of templates, in specific Class Templates and the STL. To accomplish this I will actively follow the classes and try to experiment with it! I think I will need to use 8 to 10 hours to get comfortable with these topics. I think that following the classes will help me to understand the basics of C++ and will help me to get started with the assignment.
+
 ## Do
 
 <!---
@@ -30,7 +32,7 @@ Provide as much context as possible. Use code snippets or take screenshots of wh
 
 ## Check
 
-<!--- 
+<!---
 Note: Fill this in at the end of the week.
 
 What went well? What didn't go so well? What was the most important thing you learned this week?
