@@ -18,6 +18,8 @@ NOTE: Fill this section in at the beginning of the week!
 What do you plan to do this week? What new knowledge do you want to acquire? Do you want to follow any of the learning units for the course? Do you want to work on the assignment for the course? How much time do you estimate you will spend on these tasks?
 -->
 
+By the end of the week I hope to learn more about algorithms and data structures. To accompish this I will actively follow the classes and try to experiment with it! I think I will need to use 8 to 10 hours to get comfortable with these topics. I think that following the classes will help me to understand the basics of C++ and will help me to get started with the assignment.
+
 ## Do
 
 <!---

@@ -8,7 +8,7 @@ date: 2023-09-18
 location: "Breda, The Netherlands"
 ---
 
-This is a description of your learning experiences. You can use markdown like any other post.
+Time Flies!
 
 ## Plan
 
@@ -30,6 +30,8 @@ What were you actually able to accomplish? Was it more or less than what you pla
 Provide as much context as possible. Use code snippets or take screenshots of what you were able to accomplish. Please provide references to any additional sources of information that helped you.
 -->
 
+This week I followed the classes and started to experiment with classes and spritemaps. I am going to build a 2D platformer like Mario, but the character is a ninja and has sushi and other japanese food as powerups. I had a bit of trouble with making objects but with a bit of help from the Bert I managed to do it!
+
 ## Check
 
 <!---
@@ -44,6 +46,8 @@ Did you give anyone else feedback? Who did you give feedback to? How did they re
 NOTE: Any source of feedback is feedback!
 -->
 
+I think I did quite well this week, I have a bit of hard time understanding templates but I think it will become more clear when I get some hands-on experience with it. I also started to experiment with classes and I think I am getting the hang of it. I am looking forward to the next week!
+
 ## Act
 
 <!---
@@ -53,3 +57,5 @@ What action points can you identify from this week? What would you like to impro
 
 If your planned time estimates were not accurate, what would you do to improve them?
 -->
+
+I think I need to improve my understanding of classes. Besides that, I still strugle with pointers and references. I think I need to experiment more with it to get a better understanding of it. I think I need to spend more time on it to get a better understanding of it.
